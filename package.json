@@ -9,11 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@dnd-kit/core": "^6.0.7",
+    "@dnd-kit/sortable": "^7.0.2",
     "@next/font": "13.1.5",
+    "boring-avatars": "^1.7.0",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.5",
+    "framer-motion": "^8.5.3",
+    "jotai": "^1.13.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
     "next": "13.1.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.57.1"
   }
 }
